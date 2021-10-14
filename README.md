@@ -104,18 +104,19 @@ Mutations are broadly categorized into;
      * Point mutation
      * Frameshift mutations 
      
-## Types of mutation
+## Types of mutation    
+
  * Silent mutation, which are changes in the DNA (gene sequence) that do not result in the significant change in the resultatnt amino acid sequence, poses no effect.   
  *  Miscence mutation, causes changes in the codon resulting in a different amino acid, can result in the final protein being non functional. Commonly associated with diseases such as Sickle cell anaemie.
  *  Nonesnece mutation, alteration in the codon resulting into a premature stop codon. Also renders the protein non functional. Has been associated with congenital adrenal hyperplesia.
- *  Deletion, irreversible removal of one or more nucleotides resulting in the change of the reading frame.  REsults in a completely altered non-functional protein.
+ *  Deletion, irreversible removal of one or more nucleotides resulting in the change of the reading frame. Results in a completely altered non-functional protein.
  *  Insertion, the addition of one or more amino acids in the sequence of DNA mainly by transposable elements and during replication of repeating elements. Can be reversed by excision of the transposons. Can as well result in a non-functional protein, a mulfunctioning protein and the protein may as well be destroyed by the mechanisms of the body.    
 
 
-### The concept of an open reading frame
--It can be described as a pan of DNA sequence between the statrt with a start codon and ends with a stop codon.    
--Also, it can be described as the DNA sequence which is capable of being transcribed without a stop codon. 
--Open reading frames helps in gene prediction.   
--Part of the DNA that has the ability of being translated.    
--Longer ORFs are used in the identification of candidate protein coding regions of a functional protein.    
--
+### The concept of an open reading frame    
+
+* It can be described as a pan of DNA sequence between the statrt with a start codon and ends with a stop codon.    
+* Also, it can be described as the DNA sequence which is capable of being transcribed without a stop codon. 
+* Open reading frames helps in gene prediction.   
+* Part of the DNA that has the ability of being translated.    
+* Longer ORFs are used in the identification of candidate protein coding regions of a functional protein.    
