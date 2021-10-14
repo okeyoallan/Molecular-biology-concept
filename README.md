@@ -27,7 +27,11 @@ Made up of;
   
   * Sugar group, Deoxyribose or 2-deoxy-D-ribose sugar (OH replaced with H atom) eg Deoribose, fucose 6-deoxy-L-galactose component of fucoidan of brown algae,   Rhamnose 6-deoxy-L-mannose in plant glycosides....    
   
-  * Nucleotides, A,C,T,G.     
+  * Nucleotides, A,C,T,G.  
+  
+  * A and G are called Purines, which contains a sinx membered nitrogen containing ring fused with an imidazole.
+  
+  * A, C, U for RNA are the Pyrimidines which contains only a six membered nitrogen containing ring.   
   
   * Phosphate backbone is formed by the linkage between the 5th phosphate group of one nucleotide and the 3rd OH group of the other. 
      
@@ -96,7 +100,7 @@ Asparagine or aspartic acid |asx | Z
 -It is the random alterations in the geetic material or the genetic sequence of an organism.     
 -They are the sole reason for genetic diversity.    
 -Could occur as a result of accidents during the normal chemical transactions of DNA, often during replication.       
--In addition, it might occur due to exposure to high-energy electromagnetic radiation such as UV radiations an X-rays, particle radiation or to highly reactive chemicals in the environment.     
+-In addition, it might occur due to exposFullscreenure to high-energy electromagnetic radiation such as UV radiations an X-rays, particle radiation or to highly reactive chemicals in the environment.     
 -Mutations that occur solely in the body cells are classified as *Somatic mutations* and are often passed on to successive offprings during DNA replication.    
 -Mutations in the reproductive cells are classified as *Germline mutations* and are the common causes of severe genetic disorders in most organisms such as Cystic Fibrosis in human. They are inherited to offsprings whose entire germline cells are affected by or carry the mutation. 
 
@@ -115,7 +119,9 @@ Mutations are broadly categorized into;
 
 ### The concept of an open reading frame    
 
-* It can be described as a pan of DNA sequence between the statrt with a start codon and ends with a stop codon.    
+* It can be described as a pan of DNA sequence between the statrt with a start codon and ends with a stop codon. 
+* The start codon is ATG for DNA and AUG for RNA while the stop codons are TAA, TAG, TGA for DNA and UAA, UGA, UAG for RNA.   
+* The stop codons signals the biging of mRNA translation while the stop codon signals for termination of translation.
 * Also, it can be described as the DNA sequence which is capable of being transcribed without a stop codon. 
 * Open reading frames helps in gene prediction.   
 * Part of the DNA that has the ability of being translated.    
