@@ -25,15 +25,15 @@ Deoxyribonucleic acid.
 Made up of;   
   * A phosphate group    
   
-  * Sugar group, Deoxyribose or 2-deoxy-D-ribose sugar (OH replaced with H atom) eg Deoribose, fucose 6-deoxy-L-galactose component of fucoidan of brown algae,   Rhamnose 6-deoxy-L-mannose in plant glycosides....    
+  * Sugar group, Deoxyribose or 2-deoxy-D-ribose sugar (OH replaced with H atom) eg Deoxiribose, fucose 6-deoxy-L-galactose component of fucoidan of brown algae,   Rhamnose 6-deoxy-L-mannose in plant glycosides....    
   
   * Nucleotides, A,C,T,G.  
   
-  * A and G are called Purines, which contains a sinx membered nitrogen containing ring fused with an imidazole.
+  * A and G are called Purines, which contains a six membered nitrogen containing ring fused with an imidazole.
   
   * A, C, U for RNA are the Pyrimidines which contains only a six membered nitrogen containing ring.   
   
-  * Phosphate backbone is formed by the linkage between the 5th phosphate group of one nucleotide and the 3rd OH group of the other. 
+  * Phosphate backbone is formed by the linkage between the 5th phosphate group of one nucleotide and the 3rd OH group of the other complimentary nucleotide. 
      
   * Nucleoside, made up of a purine or a pyrimidine and a 5 carbon ribose sugar.  
    
@@ -46,8 +46,8 @@ Made up of;
   # Organizational structure of DNA
  ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F2046-1682-4-8/MediaObjects/13628_2011_Article_8_Fig2_HTML.jpg?as=webp)    
  
-  * The dsDNA in eukaryotes is wound 1.7 times around histone proteins to form chromatins.This helps in; 
-      * Compressing the DNA to fit the cell
+  * The dsDNA in eukaryotes is wound 1.7 times around histone proteins to form chromatins. This helps in; 
+      * Compressing the DNA to fit into the cell
       * Makes the DNA accessible for transcription, regulation of expression, repair and recombination.
   * The chromatins are further packaged together to form chromosomes which are stored in the nucleus of the cell.
 
@@ -98,10 +98,10 @@ Asparagine or aspartic acid |asx | Z
 
 # Mutation
 -It is the random alterations in the geetic material or the genetic sequence of an organism.     
--They are the sole reason for genetic diversity.    
+-They are the main causes of genetic diversity.    
 -Could occur as a result of accidents during the normal chemical transactions of DNA, often during replication.       
 -In addition, it might occur due to exposFullscreenure to high-energy electromagnetic radiation such as UV radiations an X-rays, particle radiation or to highly reactive chemicals in the environment.     
--Mutations that occur solely in the body cells are classified as *Somatic mutations* and are often passed on to successive offprings during DNA replication.    
+-Mutations that occur solely in the body cells are classified as *Somatic mutations* and are not passed on to successive offprings during DNA replication.    
 -Mutations in the reproductive cells are classified as *Germline mutations* and are the common causes of severe genetic disorders in most organisms such as Cystic Fibrosis in human. They are inherited to offsprings whose entire germline cells are affected by or carry the mutation. 
 
 Mutations are broadly categorized into;     
